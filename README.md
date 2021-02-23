@@ -1,1 +1,1 @@
-# FizzBuzz
+# Welcome to FizzBuzz! In this program, Fizz will print whenever a number is divisible by 3, Buzz will print whenever a number is divisible by 5. If the number is divisible by 3 & 5, "FizzBuzz" will print! If not, the number will be displayed. Enjoy! 
